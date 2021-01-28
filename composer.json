@@ -8,7 +8,7 @@
         "php": "~7.4.0",
         "magento/framework": "*",
         "magento/theme-frontend-blank": "*"
-    },theme-frontend-blank/etc/view.xml
+    },
     "type": "magento2-theme",
     "license": [
         "OSL-3.0",
